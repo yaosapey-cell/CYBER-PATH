@@ -1,4 +1,7 @@
 # CYBER-PATH
+
+Ce jeu a été créé et programmé par GHOMARI Ayman  et SAPEY Yao pour leur projet d'informatique en 1ère Année de PréIng en MI4.
+
 Nous étions deux pour faire ce projet de jeu en 2D. 
 
 Pour ce jeu on a d'abord commencé par créer le tableau 2D avec toutes les fonctionnalité (cibles, robot et les murs). 
